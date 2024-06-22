@@ -183,7 +183,7 @@
       "url": "https://packages.unity.com"
     },
     "com.vowgan.modular-food": {
-      "version": "file:com.vrchat.demo-template",
+      "version": "file:com.vowgan.modular-food",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
